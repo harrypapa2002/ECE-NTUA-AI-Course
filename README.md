@@ -30,7 +30,8 @@ This project implements a rule-based movie recommendation system in Prolog. Reco
 - A multi-level similarity measure that categorizes movies into highly similar to somewhat similar categories.
 
 ### Files
-- **`prolog_recommender/prolog/predicates.pl`**: Defines rules for movie attributes (e.g., genre, director) extracted from `movies_metadata.csv` and Prolog queries to identify similar movies.
+- **`prolog_recommender/PrologRecommender.ipynb`**: Contains all implementations and analysis for the movie recommender.
+- **`prolog_recommender/predicates.pl`**: Defines rules for movie attributes (e.g., genre, director) extracted from `movies_metadata.csv` and Prolog queries to identify similar movies.
 - **`prolog_recommender/data/`**: Includes datasets such as `movies_metadata.csv`, `train_ratings.csv`, and `test_ratings.csv`.
 
 ---
